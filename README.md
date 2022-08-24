@@ -17,4 +17,17 @@ ESC is Electronic Speed control. It consists of 6 transistors used to change the
 
 ![ESC dirction](https://user-images.githubusercontent.com/90250848/186411172-e6f106b6-0191-4586-ae46-2b245da082c6.jpeg)
 
+![brushless](https://user-images.githubusercontent.com/90250848/186413276-65a20bcd-f64e-4f01-a1ca-cfc4d6ffd6c3.PNG)
+
+A2212/13T
+1000KV
+
+22mm: Diameter (width)
+
+12mm: Hight
+
+13T: The number of turns of the inductor
+
+1000KV: Number of turns for each voltage. That means 1000 turns for each voltage
+
 
