@@ -31,3 +31,7 @@ A2212/13T
 1000KV: Number of turns for each voltage. That means 1000 turns for each voltage
 
 
+## Control the Brushless Motor
+
+![Circuit](https://user-images.githubusercontent.com/90250848/186416554-5c0b58fa-704d-4c4c-92c6-8b17488ed896.PNG)
+
